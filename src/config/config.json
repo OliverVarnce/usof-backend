@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ovoitenko",
+    "password": "securepass",
+    "database": "usof_backend_dev",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "ovoitenko",
+    "password": "securepass",
+    "database": "usof_backend_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "ovoitenko",
+    "password": "securepass",
+    "database": "usof_backend",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
